@@ -33,8 +33,6 @@ jspm_packages/
 dist
 build
 
-# Compiled JavaScript files
-*.js
 
 # Compiled source maps
 *.js.map
